@@ -4,11 +4,11 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/maximilianmeischke/">
-<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' style="margin-right:10px;width:50px;height:50px;">
+<img src='https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg' style="width:50px;height:50px;">
 </a>
 
 <a href="https://www.instagram.com/maximilianm91/">
-<img src='https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png' style="width:40px;height:40px;">
+<img src='https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png' style="width:50px;height:50px;">
 </a>
 
 
